@@ -6,4 +6,4 @@
 
 
 
-These embeddings are created by applying [deepwalk](https://github.com/phanein/deepwalk) on the repository-user [network graph](http://ghtorrent.org/files/schema.pdf) of [github data](http://ghtorrent-downloads.ewi.tudelft.nl/mysql/mysql-2018-01-01.tar.gz)
+These embeddings are created by applying [deepwalk](https://github.com/phanein/deepwalk) on the repository-user [network](http://ghtorrent.org/files/schema.pdf) of [github data](http://ghtorrent-downloads.ewi.tudelft.nl/mysql/mysql-2018-01-01.tar.gz)

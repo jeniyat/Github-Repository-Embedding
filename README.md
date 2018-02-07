@@ -2,7 +2,7 @@
 
 1. repository.embeddings: this  file contains 64 dimensional embedding vector for the most popluar 10,000 github repositories
 
-2. watchers.embeddings.zip: this is the zipped file which contains 64 dimensional embedding vector for the watchers of most popluar 10,000 github repositories
+2. watchers.embeddings: this is the contains 64 dimensional embedding vector for the watchers of most popluar 10,000 github repositories
 
 
 
